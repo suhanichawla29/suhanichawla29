@@ -64,13 +64,16 @@ A full-stack web application that allows students to browse events, register onl
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suhanichawla29&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanichawla29&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=suhanichawla29&show_icons=true&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suhanichawla29&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanichawla29&layout=compact&theme=tokyonight&hide_border=true" alt="Suhani's Top Languages" />
+</p>
 ---
 
 ## 🌐 Connect With Me
