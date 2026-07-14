@@ -74,8 +74,7 @@ A full-stack web application that allows students to browse events, register onl
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/suhanichawla29
-- LinkedIn: https://www.linkedin.com/in/suhani-chawla-4995b4401?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
+- LinkedIn:www.linkedin.com/in/suhani-chawla-4995b4401
 ---
 
 ⭐ Thanks for visiting my profile!awla29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
