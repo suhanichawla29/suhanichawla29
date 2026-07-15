@@ -67,7 +67,6 @@ A full-stack web application that allows students to browse events, register onl
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=suhanichawla29&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=suhanichawla29&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
 
 ---
 
