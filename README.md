@@ -77,6 +77,6 @@ A full-stack web application that allows students to browse events, register onl
 - LinkedIn:www.linkedin.com/in/suhani-chawla-4995b4401
 ---
 
-⭐ Thanks for visiting my profile!awla29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ Thanks for visiting my profile!
 
 
