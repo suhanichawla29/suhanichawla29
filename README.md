@@ -22,7 +22,6 @@ I'm a Computer Science student passionate about building web applications and co
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,c,html,css,mysql,git,github,vscode" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=suhanichawla29&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
 
 ---
 
@@ -68,7 +67,7 @@ A full-stack web application that allows students to browse events, register onl
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=suhanichawla29&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" />
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=suhanichawla29&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
 
 ---
 
