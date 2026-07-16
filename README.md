@@ -40,7 +40,7 @@ I'm a Computer Science student passionate about building web applications and co
 ## 🚀 Projects
 
 ### 🎫 Campus Event Management System
-A full-stack web application that allows students to browse events, register online, while admins can manage events through a dashboard.
+A full-stack web application that allows students to browse events,view their details, register online, while admins can manage events through a dashboard.
 
 **Tech Stack**
 - HTML
