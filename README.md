@@ -33,6 +33,7 @@ I'm a Computer Science student passionate about building web applications and co
 - Git & GitHub
 - PHP & MySQL
 - Frontend Development
+- Backend Development
 
 ---
 
