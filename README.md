@@ -54,7 +54,6 @@ A full-stack web application that allows students to browse events, register onl
 
 - ✅ Solve 500+ DSA Problems
 - ✅ Learn React.js
-- ✅ Learn Node.js
 - ✅ Contribute to Open Source
 - ✅ Build 10+ Projects
 - ✅ Land a Software Development Internship
