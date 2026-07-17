@@ -64,11 +64,7 @@ A full-stack web application that allows students to browse events,view their de
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhanichawla29&theme=tokyonight&hide_border=true" alt="Suhani's GitHub Streak" />
-</p>
 
----
 
 ## 🌐 Connect With Me
 
