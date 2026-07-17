@@ -62,31 +62,19 @@ A full-stack web application that allows students to browse events,view their de
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suhanichawla29&show_icons=true&theme=transparent&hide_border=true"
-    alt="Suhani's GitHub Stats"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanichawla29&layout=compact&theme=transparent&hide_border=true"
-    alt="Suhani's Most Used Languages"
-    height="170"
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=suhanichawla29&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=suhanichawla29&theme=transparent&hide_border=true"
-    alt="Suhani's GitHub Streak"
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanichawla29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suhanichawla29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Connect With Me
 
