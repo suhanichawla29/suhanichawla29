@@ -54,7 +54,7 @@ A full-stack web application that allows students to browse events,view their de
 ## 🎯 Goals for 2026
 
 - ✅ Solve 500+ DSA Problems
-- ✅ Learn React.js
+- ✅ Learn Java
 - ✅ Contribute to Open Source
 - ✅ Build 10+ Projects
 - ✅ Land a Software Development Internship
