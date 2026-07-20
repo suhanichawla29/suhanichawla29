@@ -56,7 +56,7 @@ A full-stack web application that allows students to browse events,view their de
 - ✅ Solve 500+ DSA Problems
 - ✅ Learn Java
 - ✅ Contribute to Open Source
-- ✅ Build 10+ Projects
+- ✅ Build 5+ Projects
 - ✅ Land a Software Development Internship
 
 ---
