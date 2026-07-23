@@ -3,7 +3,7 @@
 
 ### 💻 B.Tech CSE Student | Aspiring Full Stack Developer
 
-I'm a Computer Science student passionate about building web applications and continuously learning new technologies and new things. Currently exploring Full Stack Development, Data Structures & Algorithms, and Open Source.
+I'm a Btech Computer Science student passionate about building web applications and continuously learning new technologies and new things. Currently exploring Full Stack Development, Data Structures & Algorithms, and Open Source.
 
 ---
 
