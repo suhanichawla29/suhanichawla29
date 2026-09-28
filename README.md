@@ -49,6 +49,18 @@ A full-stack web application that allows students to browse events,view their de
 - PHP
 - MySQL
 
+  
+### 🛡️ SentinelAPI
+
+A project developed as part of **AMIHACKS 2026**, where our team progressed to the **Final Round (Round 2)**.
+
+* **Achievement:** Reached the final round of AMIHACKS 2026.
+* **Event:** AMIHACKS 2026
+* **Role:** Contributed across multiple aspects of the project.
+
+---
+
+###
 ---
 
 ## 🎯 Goals for 2026
